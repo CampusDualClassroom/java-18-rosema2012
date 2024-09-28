@@ -8,7 +8,7 @@ import javax.swing.text.Utilities;
 public class Exercise18 {
 
 	public static void main(String[] args) {
-		int [] nums = createAndInitializeArray(7);
+		int [] nums = createAndInitializeArray(9);
 		showInlineArray(nums);
 	}
 
